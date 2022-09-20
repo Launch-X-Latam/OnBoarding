@@ -2,7 +2,7 @@
 
 ## Video tutorial
 
-Aquí te dejamos un **vídeo tutorial** que puedes seguir paso a paso el proceso de creación de tu cuenta de GitHun y así poder unirte a la organización oficial de **Launch X LATAM**.
+Aquí te dejamos un **vídeo tutorial** que puedes seguir paso a paso el proceso de creación de tu cuenta de GitHub y así poder unirte a la organización oficial de **Launch X LATAM**.
 
 *Da click sobre la imagen*
 
