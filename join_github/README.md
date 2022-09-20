@@ -102,6 +102,7 @@ Si has seguido todos los pasos de la etapa 1 correctamente, ahora puedes validar
 
 > Mantente al pendiente de tu correo y de nuestras redes sociales para conocer los próximos pasos.
 
+### [REGRESAR AL ONBOARDING](https://github.com/Launch-X-Latam/OnBoarding)
 
 ## Dudas
 
