@@ -1,12 +1,51 @@
 # OnBoarding
 
-
 ![onboarding](https://innovaccion.cloud/wp-content/uploads/2022/09/OnBoarding.png)
 
-# Tendrás acceso a la inducción, a partir del 20 de septiembre
+## Te queremos felicitar porque has tomado la mejor decisión para tu formación profesional.
 
-Visita: https://innovaccion.cloud/launchx/
+Estás por iniciar tu proceso de **OnBoarding** o **Inducción** a uno de los programas de formación de Developers que tiene la intención de abrirte nuevas oportunidades de empleabilidad. 
 
-Contáctanos en IG: innovaccionvirtual
+En **Launch X** de Innovacción virtual utilizaremos dos plataformas de trabajo. La primera se llama Microsoft Teams. En ella se encontrarán los anuncios principales y las sesiones en directo. A partir del _viernes 23 de septiembre de 2022_, tendrás acceso libre a los canales en Teams. 
 
-Escríbenos a: contacto@innovaccion.mx
+## Microsoft Teams
+
+Para ello, te dejamos los siguientes tutoriales.
+
+[Ingresar a Microsoft Teams](https://youtu.be/pmoQ0gzqYM4)
+
+[Reaccionar a publicaciones y mensajes](https://youtu.be/JUcRsZVMaJ4)
+
+[Salir de sesión en Microsoft Teams](https://youtu.be/Wa9AgBG4tSY)
+
+## Alta en GitHub
+
+La segunda plataforma se trata de GitHub, aquí se encuentra la vida en comunidad y en donde la interacción se hará realidad. Podrás compartir con otros miembros de la comunidad inquietudes, dudas y comentarios sobre tu proceso de aprendizaje. Recuerda que somos más que un curso en línea. Somos una gran familia de acompañamiento y construcción. 
+
+Primero debes darte de alta. En el siguiente tutorial te explicamos cómo hacerlo. 
+
+[Cómo dar de alta tu cuenta de GitHub](https://youtu.be/Kvas7SOPa9w)
+
+## Taller de GitHub
+
+Ahora que ya tienes tu cuenta en GitHub y te has sumado a la Organización de Launch X Latam, es momento de conocer qué más puedes hacer. Te compartimos los siguientes talleres, donde Ricardo Mirón nos da los componentes más relevantes. 
+
+[Conceptos basicos de GitHub](https://youtu.be/OIE9r0J1iRk) 
+
+[Proyectos en GitHub](https://youtu.be/8B_qtbdlLSU) 
+
+# Inauguración
+
+Ahora que has concluido esta inducción es momento de vernos este **viernes 23** de septiembre en punto de las **7:00 pm (tiempo de la Ciudad de México)** para la inauguración.
+
+[Ver Inauguración Launch X Latam](https://youtu.be/juJrG02M2bU) 
+
+# Contáctanos
+
+Instagram: https://www.instagram.com/innovaccionvirtual/
+
+Twitter: https://twitter.com/innovaccionv
+
+Correo: contacto@innovaccion.mx
+
+¡Nos vemos en el camino Explorer!
