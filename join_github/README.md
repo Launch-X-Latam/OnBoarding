@@ -10,6 +10,11 @@ Aquí te dejamos un **vídeo tutorial** que puedes seguir paso a paso el proceso
 
 > Si no se visualiza el vídeo, puedes dar click aquí: [https://www.youtube.com/watch?v=Kvas7SOPa9w](https://www.youtube.com/watch?v=Kvas7SOPa9w)
 
+### LINKS IMPORTANTES:
+
+- Registrarte en GitHub: [https://github.com/signup](https://github.com/signup)
+- Entrar a la organización: [https://launchxauth.azurewebsites.net/](https://launchxauth.azurewebsites.net/joingh)
+
 Si lo prefieres, puedes seguir el proceso que se encuentra a continuación:
 
 ##  Etapa 1: Creación de una cuenta en GitHub
