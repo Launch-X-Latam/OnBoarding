@@ -24,7 +24,7 @@ La segunda plataforma se trata de GitHub, aquí se encuentra la vida en comunida
 
 Primero debes darte de alta. En el siguiente tutorial te explicamos cómo hacerlo. 
 
-[Cómo dar de alta tu cuenta de GitHub](https://youtu.be/Kvas7SOPa9w)
+[Cómo dar de alta tu cuenta de GitHub](./join_github/README.md)
 
 ## Taller de GitHub
 
