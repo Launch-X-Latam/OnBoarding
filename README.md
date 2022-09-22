@@ -40,6 +40,14 @@ Ahora que has concluido esta inducción es momento de vernos este **viernes 23**
 
 [Ver Inauguración Launch X Latam](https://youtu.be/juJrG02M2bU) 
 
+# ACCEDE AL GRUPO DE LA MISIÓN FRONTEND EN MICROSOFT TEAMS 
+
+Ahora que has concluido tu OnBoarding, completa el siguiente formulario y te llegará un correo con el acceso a la **Misión FrontEnd**. No olvides usar tus datos de acceso que te proporcionamos en el correo de Bienvenida. 
+
+[Entra a tu grupo en Microsoft Teams](https://forms.office.com/r/Ddr5fxJbNk)
+
+![onboarding](https://innovaccion.cloud/wp-content/uploads/2022/09/Avatar_LX.png)
+
 # Contáctanos
 
 Instagram: https://www.instagram.com/innovaccionvirtual/
