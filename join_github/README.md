@@ -111,8 +111,8 @@ Si has seguido todos los pasos de la etapa 1 correctamente, ahora puedes validar
 
 ## Dudas
 
-¿Tienes alguna duda o sugerencia? 
+¿Tienes alguna duda o problema con el proceso? 
 
-Escríbenos a: [contacto@innovaccion.mx](mailto:contacto@innovaccion.mx)
+Contactame a: [manu@innovaccion.mx](mailto:manu@innovaccion.mx)
 
 *Atte: Equipo de Innovacción*
