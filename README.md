@@ -42,7 +42,7 @@ Ahora que has concluido esta inducción es momento de vernos este **viernes 23**
 
 # Accede al grupo de la Misión FrontEnd en Microsoft Teams 
 
-Ahora que has concluido tu OnBoarding, completa el siguiente formulario y te llegará un correo con el acceso a la *Misión FrontEnd*. No olvides usar tus datos de acceso que te proporcionamos en el correo de Bienvenida. 
+Ahora que has concluido tu OnBoarding, completa el siguiente formulario y te llegará un correo con el acceso a la *Misión FrontEnd*. No olvides usar tus datos de acceso que te proporcionamos en el correo de Bienvenida. (TU CORREO DE INNOVACCION VIRTUAL, NO OTRO)
 
 [Entra a tu grupo en Microsoft Teams](https://forms.office.com/r/Ddr5fxJbNk)
 
