@@ -13,7 +13,7 @@ Aquí te dejamos un **vídeo tutorial** que puedes seguir paso a paso el proceso
 ### LINKS IMPORTANTES:
 
 - Registrarte en GitHub: [https://github.com/signup](https://github.com/signup)
-- Entrar a la organización: [https://launchxauth.azurewebsites.net/](https://launchxauth.azurewebsites.net/joingh)
+- Entrar a la organización: [https://launchxauth.azurewebsites.net/](https://launchxauth.azurewebsites.net/)
 
 Si lo prefieres, puedes seguir el proceso que se encuentra a continuación:
 
@@ -86,7 +86,7 @@ c) Copiaremos el código de verificación y lo pegaremos en la ventana de GitHub
 
 Si has seguido todos los pasos de la etapa 1 correctamente, ahora puedes validar tu correo de GitHub para entrar a la organización, para ello, sigue los siguientes puntos:
 
-- Entrar a [https://launchxauth.azurewebsites.net/](https://launchxauth.azurewebsites.net/joingh)
+- Entrar a [https://launchxauth.azurewebsites.net/](https://launchxauth.azurewebsites.net/)
 
 ![Invitación GitHub](./img/paso2_joingh.png)
 
