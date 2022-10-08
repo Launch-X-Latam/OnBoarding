@@ -12,6 +12,7 @@ Ahora se explicará como podrán unirse a los equipos de GitHub para que puedan 
 - Dar click en el botón **"Enviar"**.
 
 Si lo has hecho todo bien, te mostrará el siguiente mensaje:
+
 ![Añadido](./img/message_addTeams.png)
 
 ## Verificar que se haya añadido correctamente
