@@ -1,4 +1,4 @@
-# 2.1. Validar nuestro correo de GitHub
+# Entrar a las equipos de GitHub
 
 Ahora se explicará como podrán unirse a los equipos de GitHub para que puedan tener acceso a los repositorios de las Misiones **Front-end** y **Back-end**.
 
