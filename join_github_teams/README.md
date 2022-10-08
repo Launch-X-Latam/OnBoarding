@@ -15,6 +15,10 @@ Si lo has hecho todo bien, te mostrará el siguiente mensaje:
 
 ![Añadido](./img/message_addTeams.png)
 
+¿Te mostró un mensaje distinto? Puedes revisar en [Otros Casos](#otros-casos) el mensaje que te apareció y ver que significa.
+
+¿Hiciste el proceso correctamente, te mostró un mensaje exitoso pero no ves que te ha añadido a los equipos? Ve a [la sección importante](#IMPORTANTE) para que leas la posible situación.
+
 ## Verificar que se haya añadido correctamente
 ---
 
@@ -27,9 +31,6 @@ Si lo has hecho todo bien, te mostrará el siguiente mensaje:
 **Si es la primera vez que te unes a la organización** , te llegará un correo para aceptarlo o tambien puedes verificarlo en este enlace: [https://github.com/settings/organizations](https://github.com/settings/organizations)
 
 ![Organizaciones](./img/join_gh_organization.png)
-
-¿Te mostró un mensaje distinto? Puedes revisar en [Otros Casos](#otros-casos) el mensaje que te apareció y que significa
-
 
 **¡FELICITACIONES! Ya estás dentro de la organización oficial de esta edición.** 
 
@@ -45,8 +46,8 @@ Si lo has hecho todo bien, te mostrará el siguiente mensaje:
 
 Todos las peticiones no deben tardarse mas de 5 min en hacerse. En caso de que no recibas un correo o no veas reflejado un cambio, verifica primeramente estos 2 enlaces:
 
-- Verificar que ya entraste a la organización [https://github.com/settings/organizations](https://github.com/settings/organizations)
-- Verificar que ya entraste a los equipos[https://github.com/orgs/Launch-X-Latam/teams](https://github.com/orgs/Launch-X-Latam/teams)
+- Verificar que ya entraste a la organización: [https://github.com/settings/organizations](https://github.com/settings/organizations)
+- Verificar que ya entraste a los equipos: [https://github.com/orgs/Launch-X-Latam/teams](https://github.com/orgs/Launch-X-Latam/teams)
 
 
 Si ya viste que no te encuentras en la organización o en los equipos pero la página te muestra que se ha hecho con exito: Al recibir una gran cantidad de peticiones en GitHub, puede que te muestre que te ha enviado un mensaje exitoso; sin embargo, GitHub tiene una limitación diaria para enviar correos y al superarse la limitación deja de enviar correos. Para ello, no te preocupes, solo espera hasta al día siguiente para intentarlo nuevamente.
